@@ -30,3 +30,5 @@ Imports:
     tidyr,
     vroom,
     zip
+URL: https://github.com/El-Hadi/ClinData2
+BugReports: https://github.com/El-Hadi/ClinData2/issues
